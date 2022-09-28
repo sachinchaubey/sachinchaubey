@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-chaubey-426460204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-chaubey-426460204/" height="30" width="40" /></a>
 <a href="https://instagram.com/_itslefty__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itslefty__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https:sachinchaubey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sachinchaubey" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https:sachinchaubey205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sachinchaubey205" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sachinchaubey205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sachinchaubey205" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sachinchaubey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sachinchaubey/" height="30" width="40" /></a>
 </p>
 
